@@ -121,12 +121,21 @@ focus: "Building platforms that connect people & empower local businesses"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHRISTMardochee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=CHRISTMardochee&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" alt="GitHub Streak"/>
+  <img src="./profile-summary-card-output/0-profile-details.svg" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHRISTMardochee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&count_private=true" width="40%" alt="Top Languages"/>
+  <img src="./profile-summary-card-output/1-repos-per-language.svg" width="48%" alt="Repos per Language"/>
+  <img src="./profile-summary-card-output/2-most-commit-language.svg" width="48%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/3-stats.svg" width="48%" alt="Stats"/>
+  <img src="./profile-summary-card-output/4-productive-time.svg" width="48%" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CHRISTMardochee&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" alt="GitHub Streak"/>
 </p>
 
 ---
