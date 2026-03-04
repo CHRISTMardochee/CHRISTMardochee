@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+%5BMardochée+KIKIGBAGBAN%5D;Full-Stack+Developer+%F0%9F%9A%80;Ex+Lead+Dev+%40+Volkeno+%F0%9F%92%BC;Building+from+Senegal+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+%5BMardoch%C3%A9e+KIKIGBAGBAN%5D;Full-Stack+Developer+%F0%9F%9A%80;Ex+Lead+Dev+%40+Volkeno+%F0%9F%92%BC;Building+from+Senegal+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -121,12 +121,12 @@ focus: "Building platforms that connect people & empower local businesses"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISTMardochee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHRISTMardochee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=CHRISTMardochee&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTMardochee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHRISTMardochee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&count_private=true" width="40%" alt="Top Languages"/>
 </p>
 
 ---
