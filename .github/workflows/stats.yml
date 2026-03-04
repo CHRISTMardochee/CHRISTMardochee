@@ -13,10 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fono/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: CHRISTMardochee
           BRANCH_NAME: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
