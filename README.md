@@ -121,17 +121,17 @@ focus: "Building platforms that connect people & empower local businesses"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/0-profile-details.svg" width="100%" alt="Profile Details"/>
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/1-repos-per-language.svg" width="48%" alt="Repos per Language"/>
-  <img src="./profile-summary-card-output/2-most-commit-language.svg" width="48%" alt="Most Commit Language"/>
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="48%" alt="Repos per Language"/>
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="48%" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/3-stats.svg" width="48%" alt="Stats"/>
-  <img src="./profile-summary-card-output/4-productive-time.svg" width="48%" alt="Productive Time"/>
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="48%" alt="Stats"/>
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" width="48%" alt="Productive Time"/>
 </p>
 
 <p align="center">
