@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/mardocheekg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.codeur.com/YOUR_CODEUR"><img src="https://img.shields.io/badge/Codeur.com-FF6B35?style=for-the-badge&logo=freelancer&logoColor=white" alt="Codeur.com"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -121,17 +121,17 @@ focus: "Building platforms that connect people & empower local businesses"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile Details"/>
+  <img src="./profile-summary-card-output/aura/0-profile-details.svg" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="48%" alt="Repos per Language"/>
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="48%" alt="Most Commit Language"/>
+  <img src="./profile-summary-card-output/aura/1-repos-per-language.svg" width="48%" alt="Repos per Language"/>
+  <img src="./profile-summary-card-output/aura/2-most-commit-language.svg" width="48%" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" width="48%" alt="Stats"/>
-  <img src="./profile-summary-card-output/github/4-productive-time.svg" width="48%" alt="Productive Time"/>
+  <img src="./profile-summary-card-output/aura/3-stats.svg" width="48%" alt="Stats"/>
+  <img src="./profile-summary-card-output/aura/4-productive-time.svg" width="48%" alt="Productive Time"/>
 </p>
 
 <p align="center">
