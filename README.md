@@ -1,13 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+%5BMardoch%C3%A9e+KIKIGBAGBAN%5D;Full-Stack+Developer+%F0%9F%9A%80;Ex+Lead+Dev+%40+Volkeno+%F0%9F%92%BC;Building+from+Senegal+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+%5BMardoch%C3%A9e+KIKIGBAGBAN%5D;Full-Stack+Developer+%F0%9F%9A%80;Ex+Lead+Dev+%40+Volkeno+%F0%9F%92%BC;Building+from+Senegal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mardocheekg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.codeur.com/YOUR_CODEUR"><img src="https://img.shields.io/badge/Codeur.com-FF6B35?style=for-the-badge&logo=freelancer&logoColor=white" alt="Codeur.com"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
