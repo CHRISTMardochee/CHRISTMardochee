@@ -13,8 +13,8 @@
 
 ```yaml
 name: "Mardochée KIKIGBAGBAN"
-role: "Full-Stack Developer"
-experience: "Ex Lead Developer @Volkeno"
+role: "Lead Developer"
+experience: "+5 in Software Engineering"
 location: "Senegal 🇸🇳"
 focus: "Building platforms that connect people & empower local businesses"
 ```
