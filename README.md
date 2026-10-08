@@ -19,7 +19,7 @@ location: "Senegal 🇸🇳"
 focus: "Building platforms that connect people & empower local businesses"
 ```
 
-- 🔭 Currently working on **Ylɔ̌ Kpɔ́n** — an artisan marketplace platform
+- 🔭 Currently working on many  saas platform
 - 🌱 Passionate about **PWA**, **Mobile-First design**, and **Cloud Architecture**
 - ⚡ I love turning ideas into production-ready, scalable applications
 
