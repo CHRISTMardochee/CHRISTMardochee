@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/CHRISTMardochee/CHRISTMardochee/main/profile-summary-card-output/buefy/4-productive-time.svg)
-```
-
-    
